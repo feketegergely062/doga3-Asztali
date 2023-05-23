@@ -14,8 +14,7 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 public class LoadFile {
-    static final String FILE_NAME="berkft.txt";
-
+    static final String FILE_NAME = "berkft.txt";
     public LoadFile(){
 
     }       
