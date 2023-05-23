@@ -10,3 +10,9 @@
 # Dolgozat Feladat
 
 Bekérni a megadott adatokat és azokat, egy lapozható GUI felületként kell megjeleníteni.
+
+Hiba a programba 
+GUI ablak megnyilik buttonok panelek rendben
+
+Nem kéri be a txt filet- a fenéért se !
+Tobbi mükodik 
