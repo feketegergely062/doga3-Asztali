@@ -34,7 +34,7 @@ public static ArrayList<Employee> load(){
         try (Scanner scanner = new Scanner(file,"utf-8")) {
             while(scanner.hasNext()){
                 String line = scanner.nextLine();
-                String[] lineArray = line.split("#");
+                String[] lineArray = line.split(":");
                 Employee emp = new Employee();
                 emp.name = lineArray[0];
                 emp.city = lineArray[1];
